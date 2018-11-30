@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\文档\ecnu\第五学期\计图\project2\main.cpp(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文档\ecnu\第五学期\计图\project2\main.cpp(122): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文档\ecnu\第五学期\计图\project2\main.cpp(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文档\ecnu\第五学期\计图\project2\main.cpp(124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> D:\文档\ECNU\第五学期\计图\Project2\Debug\Project2.exe
